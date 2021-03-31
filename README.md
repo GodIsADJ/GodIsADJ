@@ -20,7 +20,7 @@ After eight years working as a full stack developer, I decided to take up new ch
 <img align="left" alt="Pandas" title="Pandas" height="26px" src="https://github.com/pandas-dev/pandas/blob/master/web/pandas/static/img/pandas_mark.svg" />
 <img align="left" alt="SkLearn" title="SkLearn" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 <img align="left" alt="Matplolib" title="Matplolib" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"/>
-<img align="left" alt="Seaborn" title="Seaborn" height="26px" src="https://jehyunlee.github.io/2020/09/09/Python-DS-31-seaborn_upgrade/31-seaborn_upgrade_1.png"/>
+<img align="left" alt="Seaborn" title="Seaborn" height="26px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
 <img align="left" alt="Pytorch" title="Pytorch" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/>
 <img align="left" alt="Tensorflow" title="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>
 <!-- <img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/> -->
